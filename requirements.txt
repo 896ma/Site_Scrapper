@@ -1,2 +1,2 @@
 Have  python installed (3.10.12 or a later version )
-Download and install chromedrive
+Download and install chromedriver  for 
